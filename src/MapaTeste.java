@@ -1,5 +1,5 @@
 //Testes - Comentar o resto para testar uma parte
-public class MapaTest {
+public class MapaTeste {
     public static void main(String[] args) {
         Mapa<String, Integer> mapa = new Mapa<>();
 
